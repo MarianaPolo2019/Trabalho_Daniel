@@ -1,0 +1,11 @@
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\bin\Debug\netcoreapp2.1\TrabalhoDaniel.deps.json
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\bin\Debug\netcoreapp2.1\TrabalhoDaniel.runtimeconfig.json
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\bin\Debug\netcoreapp2.1\TrabalhoDaniel.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\bin\Debug\netcoreapp2.1\TrabalhoDaniel.dll
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\bin\Debug\netcoreapp2.1\TrabalhoDaniel.pdb
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.csprojAssemblyReference.cache
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.AssemblyInfo.cs
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.dll
+C:\Users\Mari\source\repos\Trabalho_Daniel\TrabalhoDaniel\obj\Debug\netcoreapp2.1\TrabalhoDaniel.pdb
